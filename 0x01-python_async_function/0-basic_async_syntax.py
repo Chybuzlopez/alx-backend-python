@@ -2,7 +2,7 @@
 
 """
 An asynchronous coroutine that takes in an integer argument with a default value of 10.
-It waits for a random delay between 0 and max_delay and eventually returns the  max_delay.
+It waits for a random delay btw 0 & max_delay returns the  max_delay.
 """
 
 import asyncio
